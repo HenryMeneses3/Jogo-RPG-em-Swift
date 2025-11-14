@@ -18,11 +18,11 @@ Este RPG oferece:
 
 ### 4 Heróis iniciais, cada um com uma especialidade
 
-Cada herói possui: - Inteligência\
-- Vigor\
-- Mobilidade\
-- Ataque\
-- Nível\
+Cada herói possui: - Inteligência
+- Vigor
+- Mobilidade
+- Ataque
+- Nível
 - XP
 
 Atributos aumentam ao subir de nível, e reduzem caso falhem missões
@@ -30,9 +30,9 @@ difíceis.
 
 ### 15 Missões ao total
 
--   Cada missão tem requisitos mínimos\
--   3 níveis de dificuldade\
--   XP variável\
+-   Cada missão tem requisitos mínimos
+-   3 níveis de dificuldade
+-   XP variável
 -   Penalidades caso o herói falhe em 2 ou mais requisitos
 
 A cada rodada **apenas 4 missões são sorteadas** para você escolher.
@@ -54,8 +54,8 @@ O ranking aparece no menu principal.
 ### Sistema de Itens
 
 Os heróis podem receber itens aleatórios após missões: - Poções que
-restauram atributos\
-- Pergaminhos que aumentam XP\
+restauram atributos
+- Pergaminhos que aumentam XP
 - Amuletos que aumentam stats temporariamente
 
 ## Estrutura do Sistema
@@ -70,14 +70,14 @@ restauram atributos\
 
 ### 1. Instale o Swift
 
-**macOS**\
+**macOS**
 Swift já vem instalado com o Xcode\
 Ou instale pela linha de comando:
 
     xcode-select --install
 
-**Windows ou Linux**\
-Baixe:\
+**Windows ou Linux**
+Baixe:
 https://www.swift.org/download/
 
 ### 2. Compile o projeto
@@ -90,13 +90,13 @@ https://www.swift.org/download/
 
 ## Como Jogar
 
-1.  Escolha um herói\
-2.  Analise os requisitos das missões disponíveis\
-3.  Envie alguém para a missão\
-4.  Ganhe XP e suba de nível\
-5.  Evite penalidades por fracasso\
-6.  A cada 3 missões, avança 1 dia\
-7.  A cada 5 dias, prepare-se para o Chefe Final\
+1.  Escolha um herói
+2.  Analise os requisitos das missões disponíveis
+3.  Envie alguém para a missão
+4.  Ganhe XP e suba de nível
+5.  Evite penalidades por fracasso
+6.  A cada 3 missões, avança 1 dia
+7.  A cada 5 dias, prepare-se para o Chefe Final
 8.  Suba no ranking global do reino!
 
 ## Dependências
